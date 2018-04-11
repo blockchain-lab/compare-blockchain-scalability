@@ -1,2 +1,2 @@
-# compare-blockchain-scalability
-Comparing blockchain projects to each other based on their scalability
+# Compare blockchain scalability
+Below you can find a table with a big amount of projects currently out there. For comparing the scalability of the projects, the columns 'theoretical throughput' and 'algorithmic complexity' are the most important. If the algorithmnic complexity is that of O(1), it means that the project is not scalable, other than scaling it by parameter tweaking (lower difficulty, larger block size, etc.). If the algorithmic complexity is that of O(n), it says that it is in some way scalable when for example new nodes are added, or in the case of sharding, new shards are created.
