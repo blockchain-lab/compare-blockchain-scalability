@@ -22,28 +22,31 @@ Below you can find a table with a big amount of projects currently out there. Fo
 | Tribler                | 2017    | Yes      | Implicit consensus                 | O(n)                            | O(n)                   | -                           | [21],[22] |
 | Zilliqa                | 2017    | No       | PBFT                               | O(shards)                       | O(shards)              | 306.444.816                 | [23],[24] |
 
-Sources:
-[1] - S. Nakamoto, “Bitcoin: A peer-to-peer electronic cash system.” 2008.
-[2] - D. Schwartz, N. Youngs, A. Britto et al., “The ripple protocol consensus algorithm.” [Online]. Available: https://ripple.com/files/ripple_consensus_whitepaper.pdf
-[3] - M. Castro and B. Liskov, “Practical byzantine fault tolerance,” OSDI, vol. 99, pp. 173–186, 1999.
-[4] - S. King and S. Nadal, “Ppcoin: Peer-to-peer cryptocurrency with proof-of-stake,” 2012. [Online]. Available: https://peercoin.net/assets/paper/peercoin-paper.pdf
-[5] - D. Larimer and F. Schuh, “Bitshares 2.0: Financial smart contract platform,” 2015.
-[6] - Delegated proof-of-stake consensus. [Online]. Available: https://bitshares.org/technology/delegated-proof-ofstake-consensus/
-[7] - S. Popov, “The tangle,” 2017.
-[8] - S. Gauld, F. von Ancoina, and R. Stadler, “The burst dymaxion an arbitrary scalable, energy efficient and anonymous transaction network based on colored tangles,” 2017. [Online]. Available: https://dymaxion.burst.cryptoguru.org/The-Burst-Dymaxion-1.00.pdf
-[9] - A next-generation smart contract and decentralized application platform. [Online]. Available: https://github.com/ethereum/wiki/wiki/White-Paper
-[10] - Whitepaper dash. [Online]. Available: https://github.com/dashpay/dash/wiki/Whitepaper
-[11] - Bigchaindb. [Online]. Available: https://www.bigchaindb.com
-[12] - Waves whitepaper. [Online]. Available: https://blog.wavesplatform.com/waves-whitepaper-164dd6ca6a23
-[13] - Waves-ng stress test: results in! [Online]. Available: https://blog.wavesplatform.com/waves-ng-stresstest-results-in-44090f59bb15
-[14] - A. Churyumov, “Byteball: A decentralized system for storage and transfer of value.” [Online]. Available: https://byteball.org/Byteball.pdf
-[15] - Byteball — smart payments made simple. [Online]. Available: https://byteball.org/
-[16] - Eos.io technical white paper. [Online]. Available: https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md
-[17] - Cardano. [Online]. Available: https://www.cardano.org/en/home/
-[18] - Bitcoin cash. [Online]. Available: https://www.bitcoincash.org/
-[19] - J. Poon and T. Dryja, “The bitcoin lightning network: Scalable off-chain instant payments.” 2016.
-[20] - Sharding faq. [Online]. Available: https://github.com/ethereum/wiki/wiki/Sharding-FAQ
-[21] - P. Otte, M. de Vos, and J. Pouwelse, “Trustchain: A sybil-resistant scalable blockchain,” Future Generation Computer Systems, 2017. [Online]. Available: http://www.sciencedirect.com/science/article/pii/S0167739X17318988
-[22] - Tribler - privacy using our tor-inspired onion routing. [Online]. Available: https://www.tribler.org/
-[23] - Z. team, “The zilliqa technical whitepaper,” 2017. [Online]. Available: https://docs.zilliqa.com/whitepaper.pdf
-[24] - Faq - zilliqa. [Online]. Available: https://www.zilliqa.com/faq.html
+Sources:  
+[1] - S. Nakamoto, “Bitcoin: A peer-to-peer electronic cash system.” 2008.  
+[2] - D. Schwartz, N. Youngs, A. Britto et al., “The ripple protocol consensus algorithm.” [Online]. Available: https://ripple.com/files/ripple_consensus_whitepaper.pdf  
+[3] - M. Castro and B. Liskov, “Practical byzantine fault tolerance,” OSDI, vol. 99, pp. 173–186, 1999.  
+[4] - S. King and S. Nadal, “Ppcoin: Peer-to-peer cryptocurrency with proof-of-stake,” 2012. [Online]. Available: https://peercoin.net/assets/paper/peercoin-paper.pdf  
+[5] - D. Larimer and F. Schuh, “Bitshares 2.0: Financial smart contract platform,” 2015.  
+[6] - Delegated proof-of-stake consensus. [Online]. Available: https://bitshares.org/technology/delegated-proof-ofstake-consensus/  
+[7] - S. Popov, “The tangle,” 2017.  
+[8] - S. Gauld, F. von Ancoina, and R. Stadler, “The burst dymaxion an arbitrary scalable, energy efficient and anonymous transaction network based on colored tangles,” 2017. [Online]. Available: https://dymaxion.burst.cryptoguru.org/The-Burst-Dymaxion-1.00.pdf  
+[9] - A next-generation smart contract and decentralized application platform. [Online]. Available: https://github.com/ethereum/wiki/wiki/White-Paper  
+[10] - Whitepaper dash. [Online]. Available: https://github.com/dashpay/dash/wiki/Whitepaper  
+[11] - Bigchaindb. [Online]. Available: https://www.bigchaindb.com  
+[12] - Waves whitepaper. [Online]. Available: https://blog.wavesplatform.com/waves-whitepaper-164dd6ca6a23  
+[13] - Waves-ng stress test: results in! [Online]. Available: https://blog.wavesplatform.com/waves-ng-stresstest-results-in-44090f59bb15  
+[14] - A. Churyumov, “Byteball: A decentralized system for storage and transfer of value.” [Online]. Available: https://byteball.org/Byteball.pdf  
+[15] - Byteball — smart payments made simple. [Online]. Available: https://byteball.org/  
+[16] - Eos.io technical white paper. [Online]. Available: https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md  
+[17] - Cardano. [Online]. Available: https://www.cardano.org/en/home/  
+[18] - Bitcoin cash. [Online]. Available: https://www.bitcoincash.org/  
+[19] - J. Poon and T. Dryja, “The bitcoin lightning network: Scalable off-chain instant payments.” 2016.  
+[20] - Sharding faq. [Online]. Available: https://github.com/ethereum/wiki/wiki/Sharding-FAQ  
+[21] - P. Otte, M. de Vos, and J. Pouwelse, “Trustchain: A sybil-resistant scalable blockchain,” Future Generation Computer Systems, 2017. [Online]. Available: http://www.sciencedirect.com/science/article/pii/S0167739X17318988  
+[22] - Tribler - privacy using our tor-inspired onion routing. [Online]. Available: https://www.tribler.org/  
+[23] - Z. team, “The zilliqa technical whitepaper,” 2017. [Online]. Available: https://docs.zilliqa.com/whitepaper.pdf  
+[24] - Faq - zilliqa. [Online]. Available: https://www.zilliqa.com/faq.html  
+
+### Editing this page
+Do you miss projects, or is some information not correct? Please edit it and open a pull request!
